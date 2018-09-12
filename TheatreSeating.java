@@ -8,7 +8,7 @@
 * 
 * TheatreSeating for CSE240
 *
-* @author Adam Clifton (akclifto@asu.edu)
+* @author Adam Clifton
 * @version 2018.08.25
 */
 public class TheatreSeating {
