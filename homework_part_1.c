@@ -73,8 +73,8 @@ The function receives the number (integer number) as parameter
 */
 int factorial(int number) {
 
-	if (number == 0)								//base case
-		return 1;									//base value
+	if (number == 0)					//base case
+		return 1;					//base value
 	else
 		return number * factorial(number - 1);		//recursive subproblem
 }
