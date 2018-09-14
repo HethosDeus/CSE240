@@ -3,6 +3,7 @@ DO NOT use for, do/while or while statements here. Output:
  1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 9, 8, 7, 6, 5, 4, 3, 2, 1
  
  @Author:  Adam Clifton
+ @Version: 2018.09.13
 */
 #include <iostream>
 
