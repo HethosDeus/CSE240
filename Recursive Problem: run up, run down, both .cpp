@@ -27,8 +27,8 @@ void recursion_down(int num) {//use recursive call to decrement num >= 1
 	}
 }
 
-void recursion(int num) { // this is a simple way to do it; in one function using symmetry with the cout << calls before and after the recursive step
-	
+// this is a simple way to do it; in one function using symmetry with the cout << calls before and after the recursive step	
+void recursion(int num) { 
 	if (num == 10)
 		cout << "0, ";
 	
