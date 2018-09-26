@@ -1,7 +1,7 @@
 /**
 * Description:This is the main file for homework week 4 part 2.  This file
 is provided by the homework assignment.
-* Completion time: 1 hour to copy and debug
+*  Assignment 3 for CSE240
 *
 * @author Adam Clifton
 * @version 2018.09.07
