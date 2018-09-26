@@ -1,7 +1,7 @@
 /**
 * Description:This is the header file for homeowork week 4 part 2.  This file
 provides class definitions for the patron.cpp, theatre.cpp and main_part2.cpp files
-* 
+* Assignment 3 for CSE240
 *
 * @author Adam Clifton
 * @version 2018.09.07
