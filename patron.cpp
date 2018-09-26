@@ -1,7 +1,7 @@
 /**
 * Description:This is the class implementation file for homeowork week 4 part 2,
 for the main_part2.cpp and patron.cpp files.
-* Completion time: 4 hours
+* Assignment 3 for CSE240
 *
 * @author Adam Clifton (akclifto@asu.edu), Gonzalez-Sanchez
 * @version 2018.09.07
