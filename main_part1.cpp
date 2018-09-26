@@ -1,6 +1,6 @@
 /**
 * Description:  Main file for part one of the Homework week 4.  This code is given in full. 
-*
+* Assignment 3 for CSE240
 
 * @author Adam Clifton
 * @version 2018.09.07
