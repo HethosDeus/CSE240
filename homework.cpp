@@ -1,7 +1,7 @@
 /**
 * Description: This is the implementation file for Homework week 4, part 1.  This
 file is linked to main_part1.cpp and homework.h
-* Assignment for CSE240
+* Assignment 3 for CSE240
 *
 * @author Adam Clifton
 * @version 2018.09.07
