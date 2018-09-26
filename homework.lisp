@@ -175,20 +175,19 @@
                         ; The result of this line is a symbol.  Calling x results in a list.
 ;;;(setq y '(a b c))	; This sets a quote of x to the quote of the list (a b c).  
                         ; The result this line is a symbol.  Calling y results in a list.
-;;;(print (car x))		; This prints the first item in the list x.  The result of the line is a list.
-;;;(print (car y))		; This prints the first item in the list y.  The result of the line is a list.
-;;;(print (cdr x))		; This prints all the items but the first in the list x.  The result of the line is a list.
-;;;(print (cdr y))		; This prints all the items but the first in the list x.  The result of the line is a list. 
+;;;(print (car x))	; This prints the first item in the list x.  The result of the line is a list.
+;;;(print (car y))	; This prints the first item in the list y.  The result of the line is a list.
+;;;(print (cdr x))	; This prints all the items but the first in the list x.  The result of the line is a list.
+;;;(print (cdr y))	; This prints all the items but the first in the list x.  The result of the line is a list. 
 ;;;(print car (cdr x)))	; This prints the second item in the list x (the first element of the "rest" of the list x
                         ; is the second element). 
-						; The result of the line is a list. 
+			; The result of the line is a list. 
 ;;;(print car (cdr y)))	; This prints the second item in the list y (the first element of the "rest" of the list y
                         ; is the second element). 
-						; The result of the line is a list. 
-;;;(print (cadr x))		; This prints the second item in the list x.  The result of the line is a list.
-;;;(print (cadr y))		; This prints the second item in the list y.  The result of the line is a list.
-;;;(print (append x y))	; This hooks and prints multiple lists together, in this case x and y.  
-                        ; The result of the line is a list.
+			; The result of the line is a list. 
+;;;(print (cadr x))	; This prints the second item in the list x.  The result of the line is a list.
+;;;(print (cadr y))	; This prints the second item in the list y.  The result of the line is a list.
+;;;(print (append x y))	; This hooks and prints multiple lists together, in this case x and y. The result of the line is a list.
 
 
 
