@@ -1,5 +1,5 @@
 % This is homework 5 for CSE240 in PROLOG.  The following problem cover various aspects and functions of the prolog language.  
-% 
+% Assignment 5 for CSE240
 %
 % @author Adam Clifton,
 % @version 2018.09.30
